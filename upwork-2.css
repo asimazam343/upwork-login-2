@@ -1,0 +1,21 @@
+.btn-success,
+.btn-primary,
+.btn-outline-dark,
+.btn-outline-success {
+    border-radius: 50px;
+}
+
+.content {
+    border: 2px solid rgb(231, 229, 229);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+hr {
+    margin-bottom: 0;
+}
+
+input:focus,
+textarea {
+    outline: none !important;
+}
